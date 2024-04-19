@@ -175,6 +175,11 @@ ul#services li{
     margin-bottom: 5px;
     background: #e6e6e6;
 }
+/*Portfolio*/
+.portfolio{
+    display: flex;
+    justify-content: space-between;
+}
 
 
 
