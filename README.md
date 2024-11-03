@@ -1,3 +1,3 @@
 # WebDesignProject
 This is my first Frontend Project
-url: https://kristinaborovskikh.github.io/WebDesignProject/
+url: https://kristinarenner.github.io/WebDesignProject/
